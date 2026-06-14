@@ -10,6 +10,7 @@ A content-based movie and TV show recommendation engine built with TF-IDF vector
 **Repository:** [github.com/anushkamishra7355/netflix-recommendation-system](https://github.com/anushkamishra7355/netflix-recommendation-system)
 
 ---
+**Live Link to view project:** (https://netflix-recommendation-system-project-1-ivdvk8dbmburcyz4djnvpt.streamlit.app/)
 
 ## Overview
 
@@ -109,7 +110,7 @@ See [docs/ML_DOCUMENTATION.md](docs/ML_DOCUMENTATION.md) for detailed ML documen
 | ML | scikit-learn, scipy, numpy, pandas |
 | UI | Streamlit |
 | API | requests (OMDb) |
-| Deployment | Streamlit Cloud, Render, Railway |
+| Deployment | Streamlit Cloud |
 
 ---
 
@@ -136,7 +137,7 @@ python scripts/train_model.py
 ### Optional: OMDb API Key
 
 ```bash
-export OMDB_API_KEY="your_api_key_here"
+export OMDB_API_KEY="16c0676c"
 ```
 
 Get a free key at [omdbapi.com](https://www.omdbapi.com/apikey.aspx).
@@ -177,9 +178,10 @@ Results are written to [docs/evaluation_results.md](docs/evaluation_results.md).
 
 | Home | Recommendations |
 |------|-----------------|
-| Placeholder | Placeholder |
+| <img width="2859" height="1630" alt="image" src="https://github.com/user-attachments/assets/47d27513-a8e1-44ba-ad8b-3774ef1d0c7c" />
+| <img width="2866" height="1635" alt="image" src="https://github.com/user-attachments/assets/65c12e8d-2187-4dd5-b237-8308809f11bc" />
+ |
 
-Add screenshots after running the app locally or deploying.
 
 ---
 
