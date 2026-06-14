@@ -1,0 +1,9 @@
+{
+  "precision_at_k": 0.5168956511865561,
+  "recall_at_k": 0.0038827625254445565,
+  "f1_at_k": 0.007580400990018747,
+  "hit_rate_at_k": 0.9633246281367094,
+  "evaluated_queries": 8807,
+  "skipped_queries": 0,
+  "top_k": 10
+}
